@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://omocoela.github.io/JsC/sitemap_index.txt
+Sitemap: https://omocoela.github.io/RWj/sitemap_index.txt
+Sitemap: https://omocoela.github.io/Vdx/sitemap_index.txt
+Sitemap: https://omocoela.github.io/ZSY/sitemap_index.txt
